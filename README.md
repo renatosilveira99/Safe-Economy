@@ -4,4 +4,4 @@ Aplicativo em React Native para monitoramento de saldo de usuário e simulação
 
 Para reproduzir bastar clonar o projeto e dar o comando npm install ou yarn no prompt de comando
 
-<img src="images/safe.jpeg" width=200 heigth=400 />
+<img src="images/safe.jpeg" width=150 heigth=350 />
